@@ -9,10 +9,7 @@
  * $Revision: 1.27 $
  */
 /*****************************************************************************
-;Description: PWM Sfunction on Linux for Sbs104 on ADT652.
-;             two parameters:    o Channel:   0   ---> 3
-;                                o DutyCycle: 0   ---> 100
-;                                o Frequency: 1   ---> 19500 		
+;Description: test RTT delays.		
 *****************************************************************************/
 
 /*

@@ -4,11 +4,7 @@
  *  $Revision: 1.9 $
  */
 /*****************************************************************************
-;WHU_NCSLab
-;Description: UDP_Recive Sfunction on Raspberry.
-;Date:			2021-06-07		
-;Author:		Zhou Xingwei
-;E_mail:		
+;Description: UDP_Recive Sfunction on Raspberry.		
 *****************************************************************************/
 
 #define S_FUNCTION_NAME UDP_Recive_2_new_2

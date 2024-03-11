@@ -4,7 +4,7 @@
  *  $Revision: 1.9 $
  */
 /*****************************************************************************
-;Description: UDP_Recive Sfunction on Raspberry.		
+;Description: UDP Recive Sfunction on Raspberry.		
 *****************************************************************************/
 
 #define S_FUNCTION_NAME UDP_Recive_2_new_2

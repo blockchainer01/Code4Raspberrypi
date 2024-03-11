@@ -9,14 +9,10 @@
  * $Revision: 1.27 $
  */
 /*****************************************************************************
-;WHU_NCSLab
 ;Description: PWM Sfunction on Linux for Sbs104 on ADT652.
 ;             two parameters:    o Channel:   0   ---> 3
 ;                                o DutyCycle: 0   ---> 100
-;                                o Frequency: 1   ---> 19500 
-;Date:			2021-06-07		
-;Author:		Zhou Xingwei
-;E_mail:		
+;                                o Frequency: 1   ---> 19500 	
 *****************************************************************************/
 
 /*

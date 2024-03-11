@@ -1,2 +1,2 @@
-# Code for Raspberry pi
+# Code for Raspberry Pi
 # 
